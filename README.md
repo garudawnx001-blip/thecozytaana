@@ -1,5 +1,5 @@
 # The Cozy Taana
 
-Website for The Cozy Taana, a private 2BHK homestay near Nisarga Layout, Hoskote, Bengaluru.
+Official website of The Cozy Taana, a private 2BHK homestay near Nisarga Layout, Hoskote, Bengaluru.
 
-Live at https://thecozytaana.in
+https://thecozytaana.in
